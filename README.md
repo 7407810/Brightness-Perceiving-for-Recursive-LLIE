@@ -5,7 +5,7 @@ PyTorch implementation of BPNet for recursive low-light image enhancement.
 
 ## Framework Overview
 
-![Main Framework](fig.png)
+![Main Framework](assets/fig.png)
 
 *Figure. The overall architecture of the recursive enhancement framework, consisting of ACT-Net and BP-Net.*
 
