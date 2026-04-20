@@ -1,6 +1,6 @@
 # Brightness Perceiving for Recursive Low-Light Image Enhancement
 
-
+The official source code for the paper "Brightness Perceiving for Recursive Low-Light Image Enhancement".
 
 ## Framework Overview
 
