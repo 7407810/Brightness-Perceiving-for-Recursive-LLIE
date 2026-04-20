@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-red.svg)](assets/Brightness_Perceiving_for_Recursive_Low-Light_Image_Enhancement.pdf)
 
 Official PyTorch implementation of **"Brightness Perceiving for Recursive Low-Light Image Enhancement"**.
 
