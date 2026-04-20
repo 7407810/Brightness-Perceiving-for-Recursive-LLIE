@@ -1,7 +1,6 @@
 # Brightness Perceiving for Recursive Low-Light Image Enhancement
 
 
-PyTorch implementation of BPNet for recursive low-light image enhancement.
 
 ## Framework Overview
 
