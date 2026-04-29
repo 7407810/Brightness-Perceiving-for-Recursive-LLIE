@@ -9,7 +9,7 @@ Official PyTorch implementation of **"Brightness Perceiving for Recursive Low-Li
 
 ## Framework Overview
 
-![Main Framework](assets/fig.png)
+<img src="assets/fig.png" alt="Main Framework" width="80%" />
 
 *Figure. The overall architecture of the recursive enhancement framework, consisting of ACT-Net and BP-Net.*
 
